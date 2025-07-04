@@ -32,4 +32,6 @@ To enter data using postman API Json for Post;
 }
 
 Author:
-Prasannakumar kanakala
+Prasanna Kumar Kanakala
+📧 Email: kanakalaprasannakumar@gmail.com
+🔗 LinkedIn:https://tinyurl.com/52bv4c5v
