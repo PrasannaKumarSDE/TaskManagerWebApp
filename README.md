@@ -31,5 +31,5 @@ To enter data using postman API Json for Post;
   "status": "status"
 }
 
-Author 
+Author:
 Prasannakumar kanakala
